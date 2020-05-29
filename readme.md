@@ -982,41 +982,41 @@ zerp
 https://drive.google.com/open?id=1FbMOLqx-Ex_PHTGDfVgGCWAc2S49cZVG
 
 
-4Anime	https://4anime.to/
-https://www1.9anime.nl/ 
-https://9anime.live/ 9anime.to 
-https://9anime.ru/ 
-https://anime8.ru/
-www.animebam.se
-https://animedaisuki.moe/
-https://animedao.com
-https://www.animefever.tv/
-http://animeflix.io/
-www.animefreak.tv
-https://animehub.ac
-https://animekisa.tv
-https://animeland.us
-https://animelon.com
-https://animemoon.net/
-https://animepahe.com
-https://animepark.net
-https://animepill.com
-https://animereborn.net
-https://animerush.tv
-https://animeseries.io
-https://animeshow.tv
-https://animesimple.com
-https://animetake.tv
-https://twist.moe
-https://animeultima.eu
-https://animevibe.tv
-https://anistream.xyz/
-https://aniwatcher.com
-https://chiaanime.com
-https://www.crunchyroll.com/
-https://darkanime.stream
-https://dubbedanime.net
-https://eyeonanime.tv/
+- [4Anime	https://4anime.to/
+- https://www1.9anime.nl/ 
+- [https://9anime.live/ 9anime.to 
+- https://9anime.ru/ 
+- https://anime8.ru/
+- [www.animebam.se
+- [https://animedaisuki.moe/
+- [https://animedao.com
+- https://www.animefever.tv/
+- http://animeflix.io/
+- www.animefreak.tv
+- https://animehub.ac
+- https://animekisa.tv
+- https://animeland.us
+- https://animelon.com
+- https://animemoon.net/
+- https://animepahe.com
+- https://animepark.net
+- https://animepill.com
+- https://animereborn.net
+- https://animerush.tv
+- https://animeseries.io
+- https://animeshow.tv
+- https://animesimple.com
+- https://animetake.tv
+- https://twist.moe
+- https://animeultima.eu
+- https://animevibe.tv
+- https://anistream.xyz/
+- https://aniwatcher.com
+- https://chiaanime.com
+- https://www.crunchyroll.com/
+- https://darkanime.stream
+- https://dubbedanime.net
+- https://eyeonanime.tv/
 https://gogoanime.video/ https://www9.gogoanime.io/
 https://haho.moe
 https://hotanime.me
@@ -1033,7 +1033,7 @@ https://ryuanime.com
 https://sganime.org
 https://thewatchcartoononline.tv
 https://watchanime.info
-www.zuranime.com
+- www.zuranime.com
 
 
 
