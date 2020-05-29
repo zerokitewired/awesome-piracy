@@ -22,7 +22,7 @@ forked from Igglybuff/awesome-piracy
 - [Domain Names](#domain-names)
 - [Torrenting](#torrenting)
     - [Trackers](#trackers)
-        - [Private Trackers](#private-trackers)
+       - [Private Trackers](#private-trackers)
         - [Semi-Private Trackers](#semi-private-trackers)
         - [Public Trackers](#public-trackers)
     - [Tracker Aggregators](#tracker-aggregators)
