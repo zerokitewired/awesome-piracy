@@ -1,4 +1,4 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+forked from Igglybuff/awesome-piracy
 
 > A curated list of arrrrrrrrr!
 
