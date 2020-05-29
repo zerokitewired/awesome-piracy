@@ -976,6 +976,7 @@ premium services
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [Masterani.me](https://www.masterani.me/) Large library of streamable anime with scheduling features.
+https://drive.google.com/open?id=1FbMOLqx-Ex_PHTGDfVgGCWAc2S49cZVG
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
