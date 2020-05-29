@@ -2,8 +2,9 @@ forked from Igglybuff/awesome-piracy
 
 > A curated list of arrrrrrrrr!
 
+
 ## Contents
-- [Preamble](#preamble)
+- [Anime](#anime)- [Preamble](#preamble)
 - [Background Information](#background-information)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
@@ -77,7 +78,7 @@ forked from Igglybuff/awesome-piracy
     - [ROMs](#roms)
     - [Console Games](#console-games)
     - [Homebrew and Custom Firmware](#homebrew-and-custom-firmware)
-- [Anime](#anime)
+
 - [Cartoons](#cartoons)
 - [Music](#music)
     - [Music Streaming](#music-streaming)
@@ -494,7 +495,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use Usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 - [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
-- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+- [Usenet-Uploaders](https://github.com/tosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 - [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper-tool
 - [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
@@ -956,7 +957,7 @@ premium services
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
 - [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
 
-## Anime
+zerp## Anime
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
@@ -977,6 +978,61 @@ premium services
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [Masterani.me](https://www.masterani.me/) Large library of streamable anime with scheduling features.
 https://drive.google.com/open?id=1FbMOLqx-Ex_PHTGDfVgGCWAc2S49cZVG
+
+
+4Anime	https://4anime.to/
+9Anime	https://www1.9anime.nl/ https://9anime.live/ 9anime.to https://9anime.ru/ 
+Anime8 	https://anime8.ru/
+Animebam	www.animebam.se
+AnimeDaisuki	https://animedaisuki.moe/
+AnimeDao	https://animedao.com
+Animefever	https://www.animefever.tv/
+Animeflix	http://animeflix.io/
+Animefreak	www.animefreak.tv
+AnimeHub	https://animehub.ac
+AnimeKisa	https://animekisa.tv
+Animeland	https://animeland.us
+Animelon	https://animelon.com
+AnimeMoon	https://animemoon.net/
+Animepahe	https://animepahe.com
+AnimePark	https://animepark.net
+AnimePill	https://animepill.com
+Animereborn	https://animereborn.net
+AnimeRush	https://animerush.tv
+AnimeSeries	https://animeseries.io
+AnimeShow	https://animeshow.tv
+Anime Simple	https://animesimple.com
+Animetake	https://animetake.tv
+Anime Twist	https://twist.moe
+AnimeUltima	https://animeultima.eu
+AnimeVibe	https://animevibe.tv
+Anistream	https://anistream.xyz/
+Aniwatcher	https://aniwatcher.com
+Chia-anime	https://chiaanime.com
+Crunchyroll (Paid)	https://www.crunchyroll.com/
+Dark Anime	https://darkanime.stream
+Dubbed Anime	https://dubbedanime.net
+EyeOnAnime	https://eyeonanime.tv/
+GoGoAnime	https://gogoanime.video/ https://www9.gogoanime.io/
+Haho	https://haho.moe
+Hot Anime 1	https://hotanime.me
+JustDubs	https://justdubs.org
+Kawaiifu	https://kawaiifu.com
+KickAssAnime	https://kickassanime.io
+KimCartoon 	https://kimcartoon.to
+KissAnime 	https://kissanime.ru
+Kuroani	https://kuroani.me
+myAnime (Account needed)	https://www.myanime.moe/register
+Naruto Shippuden	https://narutoshippuden.net
+Otaku Stream (Rest in Piece)	https://otakustream.tv
+Ryuanime	https://ryuanime.com
+SGAnime	https://sganime.org
+WatchCartoonOnline	https://thewatchcartoononline.tv
+Watch Anime	https://watchanime.info
+Zuranime	www.zuranime.com
+
+
+
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
