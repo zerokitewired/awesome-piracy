@@ -982,56 +982,58 @@ zerp
 https://drive.google.com/open?id=1FbMOLqx-Ex_PHTGDfVgGCWAc2S49cZVG
 
 
-4Anime	https://4anime.to/	Banner	N	N	Y	N	N	N	N	Y	N	Y
-9Anime	https://www1.9anime.nl/ https://9anime.live/ 9anime.to https://9anime.ru/ 	Y	N	Y	Y	N	N	N	Y	Y	Y	Y
-Anime8 	https://anime8.ru/	Y	N	Y	Y	N	Y	N	Y	N	N	N
-Animebam	www.animebam.se	Y	N	Y	Y	N	N	Y	Y	Y	N	Y
-AnimeDaisuki	https://animedaisuki.moe/											
-AnimeDao	https://animedao.com	Y	N	N	Y	N	N	Y	Y	N	N	N
-Animefever	https://www.animefever.tv/											
-Animeflix	http://animeflix.io/	N	N	Y	Y	N	Y	Y	Y	Y	N	N
-Animefreak	www.animefreak.tv	Y	N									
-AnimeHub	https://animehub.ac											
-AnimeKisa	https://animekisa.tv	N		Y	Y	N						
-Animeland	https://animeland.us											
-Animelon	https://animelon.com											
-AnimeMoon	https://animemoon.net/											
-Animepahe	https://animepahe.com	N	N				N	N	Y	Y	N	Y
-AnimePark	https://animepark.net											
-AnimePill	https://animepill.com											
-Animereborn	https://animereborn.net											
-AnimeRush	https://animerush.tv											
-AnimeSeries	https://animeseries.io											
-AnimeShow	https://animeshow.tv											
-Anime Simple	https://animesimple.com	Y	N									
-Animetake	https://animetake.tv											
-Anime Twist	https://twist.moe	N	N									
-AnimeUltima	https://animeultima.eu											
-AnimeVibe	https://animevibe.tv											
-Anistream	https://anistream.xyz/	N	N	Y	Y	N	Y	Y	Y	App Only	N	N
-Aniwatcher	https://aniwatcher.com											
-Chia-anime	https://chiaanime.com											
-Crunchyroll (Paid)	https://www.crunchyroll.com/											
-Dark Anime	https://darkanime.stream											
-Dubbed Anime	https://dubbedanime.net											
-EyeOnAnime	https://eyeonanime.tv/											
-GoGoAnime	https://gogoanime.video/ https://www9.gogoanime.io/	Y	N									
-Haho	https://haho.moe											
-Hot Anime 1	https://hotanime.me											
-JustDubs	https://justdubs.org											
-Kawaiifu	https://kawaiifu.com											
-KickAssAnime	https://kickassanime.io											
-KimCartoon 	https://kimcartoon.to											
-KissAnime 	https://kissanime.ru	Y	Y	Y								
-Kuroani	https://kuroani.me											
-myAnime (Account needed)	https://www.myanime.moe/register	N	N	Y	Y	N	N	N	Y	Y	N	Y
-Naruto Shippuden	https://narutoshippuden.net											
-Otaku Stream (Rest in Piece)	https://otakustream.tv											
-Ryuanime	https://ryuanime.com											
-SGAnime	https://sganime.org											
-WatchCartoonOnline	https://thewatchcartoononline.tv											
-Watch Anime	https://watchanime.info											
-Zuranime	www.zuranime.com											
+4Anime	https://4anime.to/
+https://www1.9anime.nl/ 
+https://9anime.live/ 9anime.to 
+https://9anime.ru/ 
+https://anime8.ru/
+www.animebam.se
+https://animedaisuki.moe/
+https://animedao.com
+https://www.animefever.tv/
+http://animeflix.io/
+www.animefreak.tv
+https://animehub.ac
+https://animekisa.tv
+https://animeland.us
+https://animelon.com
+https://animemoon.net/
+https://animepahe.com
+https://animepark.net
+https://animepill.com
+https://animereborn.net
+https://animerush.tv
+https://animeseries.io
+https://animeshow.tv
+https://animesimple.com
+https://animetake.tv
+https://twist.moe
+https://animeultima.eu
+https://animevibe.tv
+https://anistream.xyz/
+https://aniwatcher.com
+https://chiaanime.com
+https://www.crunchyroll.com/
+https://darkanime.stream
+https://dubbedanime.net
+https://eyeonanime.tv/
+https://gogoanime.video/ https://www9.gogoanime.io/
+https://haho.moe
+https://hotanime.me
+https://justdubs.org
+https://kawaiifu.com
+https://kickassanime.io
+https://kimcartoon.to
+https://kissanime.ru
+https://kuroani.me
+https://www.myanime.moe/register
+https://narutoshippuden.net
+https://otakustream.tv
+https://ryuanime.com
+https://sganime.org
+https://thewatchcartoononline.tv
+https://watchanime.info
+www.zuranime.com
 
 
 
