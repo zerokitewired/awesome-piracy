@@ -980,6 +980,11 @@ zerp
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [Masterani.me](https://www.masterani.me/) Large library of streamable anime with scheduling features.
 https://drive.google.com/open?id=1amalkmLcrNAKdaNe55roTFZIIumwAdoO
+full 
+https://drive.google.com/open?id=1C7mE8sx_BCVF5TWdPEygmOkYBLxnw2Zv
+
+
+
 
 
 - [4Anime	https://4anime.to/
